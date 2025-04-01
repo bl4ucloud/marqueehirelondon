@@ -1,2 +1,0 @@
-# marqueehirelondon
-My awesome repository
